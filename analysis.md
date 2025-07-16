@@ -12,4 +12,4 @@
 
 ## Chart
 
-![Score Distribution](outputs/score_distribution.png)
+![Score Distribution](score_distribution.png)
